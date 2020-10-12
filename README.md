@@ -9,9 +9,8 @@ I am an computer scientist with +10 years of experience in development, data ana
 
 I have a Master of Science and Technology degree from the Pontifícia Universidade Católica of São Paulo in Brazil, where I focused on history of science, fundamentals of mathematics and artificial intelligence.
 
+
+The main goal here is to demonstrate small projects that represent the some concepts in machine learning and data science.
+
+
 **Key words:** Deep learning, NLP, Data Analysis
-
-**Links:**
-* [Lattes](http://lattes.cnpq.br/8693491049685707)
-* [Medium](https://www.medium.com)
-
