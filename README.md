@@ -1,7 +1,7 @@
 #Machine Learning Projects
 
 ## Danilo Gustavo Bispo
-<sub>*Science and Technology</sub>
+<sub>Science and Technology</sub>
 
 I have been studying data science and its machine learning related applications and models (linear regression, classification, ensemble, deep learning, natural language process), as I am seeking an opportunity to leverage expertise and education in the fields of machine learning and data processing as a machine learning engineer/data scientist.
 
